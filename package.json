@@ -1,0 +1,22 @@
+{
+  "name": "rehau",
+  "version": "1.0.0",
+  "description": "rehau project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizkyfadilah/kiaalap.git"
+  },
+  "keywords": [
+    "dashboard"
+  ],
+  "author": "rizkyfadilah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizkyfadilah/kiaalap/issues"
+  },
+  "homepage": "https://github.com/rizkyfadilah/kiaalap#readme"
+}
